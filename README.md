@@ -4,7 +4,7 @@ I'm Sergio Hanganu , I'm a back-end java developer.<br/>
 ## 📫 How to reach me:
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](Sergio!](https://www.linkedin.com/in/sergiu-hanganu-63a4b5222/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/OigreSergio) 
 
-- 📧 [This](sergio.hanganu@gmial.com) is my email
+- 📧 [This](sergio.hanganu@gmial.com) is my email(sergio.hanganu@gmial.com)
 - 🔭 I’m currently working on [Car Dealer](https://github.com/develhope/Java23-Team2-Dealer)
 - 🌱 I’m currently learning SpringBoot
  <h2 align="left">⚡Languages and Tools:</h2>
