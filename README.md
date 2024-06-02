@@ -3,7 +3,7 @@
 <div>
   <h1>Hi there I'm <a href= "(https://www.linkedin.com/in/sergiu-hanganu-63a4b5222/)"> Sergiu!👋</a></h1>
 <h2>📫 How to reach me:</h2>
-
+<script src="https://ajax.googleapis.com/ajax/libs/cesiumjs/1.78/Build/Cesium/Cesium.js"></script>
 <p><a href="(https://www.linkedin.com/in/sergiu-hanganu-63a4b5222/)" target="_blank">
 <img src = "https://i.imgur.com/OQUXwNp.jpeg" alt = "Linkedin logo" width="30" height ="30" > </img>
 </a>
@@ -16,7 +16,7 @@
 
   - 🤔 &nbsp; Exploring new technologies and developing.
   - 🎓 &nbsp; Studying Computer Science .
-  - 💼 &nbsp; I’m currently working on [Development projects](https://github.com/develhope/Java23-Team2-Dealer). 
+  - 💼 &nbsp; I’m currently working on [Car Dealer](https://github.com/develhope/Java23-Team2-Dealer). 
 </div> 
 </div>
 
