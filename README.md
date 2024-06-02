@@ -1,6 +1,12 @@
 <h1 align="center">Hey there! I'm Sergiu Ionut Hanganu 👋 </h1>
 <h3 align="center">🚀 Backend Developer  🚀</h3>
 <div>
+  <h1>Hi there I'm <a href= "(https://www.linkedin.com/in/sergiu-hanganu-63a4b5222/)"> Sergiu!👋</a></h1>
+<h2>📫 How to reach me:</h2>
+
+<p><a href="(https://www.linkedin.com/in/sergiu-hanganu-63a4b5222/)" target="_blank">
+<img src = "https://i.imgur.com/OQUXwNp.jpeg" alt = "Linkedin logo" width="30" height ="30" > </img>
+</a>
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
@@ -15,7 +21,7 @@
   <h3> 💻 Languages and Tools </h3>
   <p>
    <img 
-    src="https://media.giphy.com/media/3rCcV6sC1o2GY/giphy.gif" width="50"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"   width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img 
+src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"   width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img 
 src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
   <p>
 </div> 
