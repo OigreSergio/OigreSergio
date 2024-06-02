@@ -13,7 +13,7 @@
 
   - 🤔 &nbsp; Exploring new technologies and developing.
   - 🎓 &nbsp; Studying Computer Science .
-  - 💼 &nbsp; I’m currently working on [Full Stack Development projects](https://github.com/develhope/Java23-Team2-Dealer). 
+  - 💼 &nbsp; I’m currently working on [Development projects](https://github.com/develhope/Java23-Team2-Dealer). 
 </div> 
 </div>
 
