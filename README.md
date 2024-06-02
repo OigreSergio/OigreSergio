@@ -1,9 +1,10 @@
 <h1 align="center">Hey there! I'm Sergiu Ionut Hanganu 👋 </h1>
 <h3 align="center">🚀 Backend Developer  🚀</h3>
 <div>
-  <h1>Hi there I'm <a href= "(https://www.linkedin.com/in/sergiu-hanganu-63a4b5222/)"> Sergiu!👋</a></h1>
+  <h1>And this is what im doing <a href= "(https://www.linkedin.com/in/sergiu-hanganu-63a4b5222/)"></a></h1>
 <h2>📫 How to reach me:</h2>
-<script src="https://ajax.googleapis.com/ajax/libs/cesiumjs/1.78/Build/Cesium/Cesium.js"></script>
+
+
 <p><a href="(https://www.linkedin.com/in/sergiu-hanganu-63a4b5222/)" target="_blank">
 <img src = "https://i.imgur.com/OQUXwNp.jpeg" alt = "Linkedin logo" width="30" height ="30" > </img>
 </a>
