@@ -7,6 +7,9 @@
 <p><a href="(https://www.linkedin.com/in/sergiu-hanganu-63a4b5222/)" target="_blank">
 <img src = "https://i.imgur.com/OQUXwNp.jpeg" alt = "Linkedin logo" width="30" height ="30" > </img>
 </a>
+  <a href="https://github.com/OigreSergio" target="_blank">
+<img src = "https://i.imgur.com/J6LeoUb.png" alt = "GitHub logo" width="30" height ="30" > </img>
+    
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
