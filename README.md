@@ -17,7 +17,7 @@
 
   - 🤔 &nbsp; Exploring new technologies and developing.
   - 🎓 &nbsp; Studying Computer Science .
-  - 💼 &nbsp; the last job I have cooperated to [Car Dealer](https://github.com/develhope/Java23-Team2-Dealer). 
+  - 💼 &nbsp; the The last job I collaborated on his name [Car Dealer](https://github.com/develhope/Java23-Team2-Dealer). 
 </div> 
 </div>
 
