@@ -17,7 +17,7 @@
 
   - 🤔 &nbsp; Exploring new technologies and developing.
   - 🎓 &nbsp; Studying Computer Science .
-  - 💼 &nbsp; the The last job I collaborated on his name [Car Dealer](https://github.com/develhope/Java23-Team2-Dealer). 
+  - 💼 &nbsp; Backend developer — currently building Parkour NoToT Family (FastAPI, PostGIS, Flutter) https://github.com/OigreSergio/Parkour_NoToTFamily . 
 </div> 
 </div>
 
